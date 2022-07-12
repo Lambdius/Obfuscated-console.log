@@ -3,9 +3,9 @@
 > To start, use the command - `npm start`
 
 **The idea to write something like this came from two kata from CodeWars:**
-[Task 1 (6 kyu)](https://www.codewars.com/kata/57f90a8d5cae44a9dc000091) ✅
-[Task 2 (5 kyu)](https://www.codewars.com/kata/57f92db48b0760410a0001e7) ✅
-[Task 3 (2 kyu)](https://www.codewars.com/kata/5935558a32fb828aad001213) ✅
+- [Task 1 (6 kyu)](https://www.codewars.com/kata/57f90a8d5cae44a9dc000091) ✅
+- [Task 2 (5 kyu)](https://www.codewars.com/kata/57f92db48b0760410a0001e7) ✅
+- [Task 3 (2 kyu)](https://www.codewars.com/kata/5935558a32fb828aad001213) ✅
 
 We know perfectly well that you can do magic in JavaScript, so we decided to create a function, without actually declaring it, which should output the phrase "JS is wierd" to the console, while we are forbidden to use letters and numbers.
 
